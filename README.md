@@ -1,4 +1,5 @@
 # 🌟 All About Me - Personal Website
+Took help with copoilt to create it and made some changes.
 
 A beautiful, responsive personal website showcasing who you are, where you're from, your hobbies, and interests. Perfect for school projects and personal portfolios!
 
@@ -328,5 +329,6 @@ You've created a professional personal website! This project demonstrates your c
 **Made with ❤️ for your school project**
 
 _Last updated: October 2025_
-#   a b o u t - m e  
+#   a b o u t - m e 
+ 
  
